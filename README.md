@@ -1,4 +1,4 @@
-# XOR-Problem-ML-
+# XOR-Problem-ML(TensorFlow.js)
 
 XOR problem is real world research problem in neural network. 
 in XOR [0, 0] = [0], 
